@@ -44,18 +44,15 @@
 
 ---
 
-### 📊 GitHub Stats
 
+### 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username="Chetan323212"&show_icons=true&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Chetan323212&show_icons=true&theme=radical" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan323212&layout=compact&theme=radical" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chetan323212&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=Chetan323212&theme=radical" />
 </p>
-
----
 
 ### 🤝 Let's Connect
 
