@@ -12,7 +12,7 @@
 - 🌱 I'm exploring **AI-integrated web applications**
 - 💡 I enjoy solving problems and turning ideas into working products
 - 📍 Based in Pune, India
-- 📫 Reach me at: **chetanpatil323212@gmail.com*
+- 📫 Reach me at: **chetanpatil323212@gmail.com**
 - 💼 LinkedIn: **[linkedin.com/in/your-handle](https://www.linkedin.com/in/chetan-patil-dev/)**
 
 ---
@@ -37,8 +37,6 @@
 |---|---|---|
 | **[Portfolio Website](https://github.com/Chetan323212/portfolio)** | My personal portfolio site | HTML, CSS, JS |
 | **[Frontend Module - MERN](https://github.com/Chetan323212/frontend-module-javascript-mern)** | Frontend learning project for the MERN stack | HTML, CSS, JavaScript |
-| *Add your best 2-3 projects here* | *Short one-line description* | *Tech used* |
-
 > 💡 Tip: Add a live demo link and a screenshot/GIF to each project's own README so recruiters can see it working without cloning the repo.
 
 ---
