@@ -12,8 +12,7 @@
 - 🌱 I'm exploring **AI-integrated web applications**
 - 💡 I enjoy solving problems and turning ideas into working products
 - 📍 Based in Pune, India
-- 📫 Reach me at: **chetanpatil323212@gmail.com**
-- 🌐 Portfolio: **[your-portfolio-link.com](https://your-portfolio-link.com)**
+- 📫 Reach me at: **chetanpatil323212@gmail.com*
 - 💼 LinkedIn: **[linkedin.com/in/your-handle](https://www.linkedin.com/in/chetan-patil-dev/)**
 
 ---
